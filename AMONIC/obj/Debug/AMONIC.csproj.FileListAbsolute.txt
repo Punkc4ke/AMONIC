@@ -1,0 +1,23 @@
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\bin\Debug\AMONIC.exe.config
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\bin\Debug\AMONIC.exe
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\bin\Debug\AMONIC.pdb
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\Login.g.cs
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\Login.baml
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.g.resources
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.exe
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC.pdb
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AddUser.g.cs
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC Airlines Automation system.g.cs
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\EditRole.g.cs
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AddUser.baml
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\AMONIC Airlines Automation system.baml
+C:\Users\Алексей\source\repos\AMONIC\AMONIC\obj\Debug\EditRole.baml

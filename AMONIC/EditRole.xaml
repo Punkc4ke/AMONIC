@@ -1,0 +1,25 @@
+﻿<Window x:Class="AMONIC.EditRole"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC"
+        mc:Ignorable="d"
+        Title="Edit role" Height="450" Width="500">
+    <Grid>
+        <Label Content="Email address" HorizontalAlignment="Left" Margin="70,59,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <Label Content="First name" HorizontalAlignment="Left" Margin="70,103,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <Label Content="Last name" HorizontalAlignment="Left" Margin="70,147,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="189,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" FontSize="16" FontFamily="/AMONIC;component/#TeX Gyre Adventor"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="189,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" FontSize="16" FontFamily="/AMONIC;component/#TeX Gyre Adventor"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="189,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" FontSize="16" FontFamily="/AMONIC;component/#TeX Gyre Adventor"/>
+        <Label Content="Office" HorizontalAlignment="Left" Margin="69,199,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <ComboBox HorizontalAlignment="Left" Margin="189,199,0,0" VerticalAlignment="Top" Width="241" Height="30" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <Button Content="Apply" HorizontalAlignment="Center" Margin="117,364,257.6,0" VerticalAlignment="Top" Width="119" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <Button Content="Cancel" HorizontalAlignment="Center" Margin="265,364,109.6,0" VerticalAlignment="Top" Width="119" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <Label Content="Role" HorizontalAlignment="Left" Margin="70,265,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <RadioButton Content="User" HorizontalAlignment="Left" Margin="189,280,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+        <RadioButton Content="Administrator" HorizontalAlignment="Left" Margin="189,307,0,0" VerticalAlignment="Top" FontFamily="/AMONIC;component/#TeX Gyre Adventor" FontSize="16"/>
+
+    </Grid>
+</Window>
